@@ -1,8 +1,8 @@
 {
-  "name": "jshint",
+  "name": "ghint",
   "version": "0.8.0",
   "description": "A CLI for JSHint",
-  "homepage": "http://github.com/jshint/node-jshint",
+  "homepage": "http://github.com/guille/node-jshint",
   "author": {
     "name": "Brent Lintner",
     "email": "brent.lintner@gmail.com",
