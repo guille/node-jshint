@@ -1,6 +1,6 @@
 {
   "name": "ghint",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "description": "A CLI for JSHint",
   "homepage": "http://github.com/guille/node-jshint",
   "author": {
